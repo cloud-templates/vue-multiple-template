@@ -1,0 +1,12 @@
+{
+  "name": "vue-multiple-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A vue multiple template.",
+  "scripts": {
+    "release": "bash release.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}

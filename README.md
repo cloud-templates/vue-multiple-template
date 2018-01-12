@@ -1,2 +1,2 @@
 # vue-multiple-template
-vue的多页面构建
+vue的多页面项目构建
