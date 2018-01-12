@@ -17,7 +17,7 @@ npm run dev
 # build for production with minification
 npm run build
 
-# 定制化构建views
+# build for production and customize build views
 npm run build --components=spa,mulitple
 
 # build for production and view the bundle analyzer report
